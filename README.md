@@ -2,6 +2,11 @@
 A todo list app
 
 
+This is classical To do list .
+Here you can create , delete and complete your task.
+It is simple and easy to use .
+
+
 ### General steps to follow when creating a project
 
 - Thinking about the UI
